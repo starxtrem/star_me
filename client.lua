@@ -98,3 +98,8 @@ AddEventHandler('3dme:shareDisplay', function(text, serverId)
     local ped = GetPlayerPed(GetPlayerFromServerId(serverId))
     Display(ped, text, serverId)
 end)
+
+
+--######################################
+--########### BY STARXTREM #############
+--######################################

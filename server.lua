@@ -27,3 +27,8 @@ end)
 ESX.RegisterServerCallback('me:recupid', function(source, cb)
 	cb(source)
 end)
+
+
+--######################################
+--########### BY STARXTREM #############
+--######################################
