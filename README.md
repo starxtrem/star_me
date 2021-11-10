@@ -1,6 +1,6 @@
 # Star_me
 
-It's for all serv fivem coding in LUA and Version ESX
+It's for all serv fivem coding in LUA in ESX
 
 Possible to add in Infinity
 
